@@ -1,19 +1,18 @@
 const CONFIG = {
-    introTitle: 'giang lồn à!',
+    introTitle: 'phương béo à!',
     introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    Mà sao e cứ ăn hết đồ ăn
+    ấn hihi để tiếp tục`,
     btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'yêu Thủy đẹp trai vcl',
+    title: 'Phải chăng em nặng 60kg 😙',
+    desc: 'có đúng e nặng 60kg k ',
+    btnYes: 'đúng vậy sao a biết',
     btnNo: 'có cái lồn :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'buscu anh nhé.',
+    question:'Trên thế giới hơn 7 tỉ người tại sao e lại béo nhất',
+    btnReply: 'trả lời câu hỏi',
+    reply: 'đúng vậy sao a biết e béo nhất',
+    mess: 'Anh biết mà',
+    messDesc: 'tăng lên 70kg nhé',
     btnAccept: 'Okiiiii lun <3',
  messLink: 'https://www.facebook.com/thaicong.do.10/'
 }
