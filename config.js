@@ -1,6 +1,6 @@
 const CONFIG = {
     introTitle: 'phương béo à!',
-    introDesc: `Trái đất vốn lạ thường
+    introDesc: `ăn nhiềuuuuuuuuuuu
     Mà sao e cứ ăn hết đồ ăn
     ấn hihi để tiếp tục`,
     btnIntro: 'hihi',
